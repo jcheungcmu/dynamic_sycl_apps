@@ -1,3 +1,4 @@
-*quartus*
-*.so*
+quartus*
+*.so
 *.prj
+*.exe
